@@ -1,0 +1,19 @@
+{
+  "name": "elearning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyasinha18/febricom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priyasinha18/febricom/issues"
+  },
+  "homepage": "https://github.com/priyasinha18/febricom#readme"
+}
